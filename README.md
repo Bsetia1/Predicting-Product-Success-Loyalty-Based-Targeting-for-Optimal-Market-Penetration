@@ -181,3 +181,11 @@ Open the notebooks using Jupyter or VSCode:
 Run b1_Marketing_Campaign.ipynb to train and evaluate the model
 
 Run b2_Predictor_Marketing.ipynb to predict and analyze targeting strategies
+
+
+
+
+### 👩‍💻 Author
+Bhavya Setia
+Data Analytics | Marketing Strategy | Machine Learning
+[LinkedIn](https://www.linkedin.com/in/bhavyasetia341)
