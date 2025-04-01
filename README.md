@@ -188,4 +188,5 @@ Run b2_Predictor_Marketing.ipynb to predict and analyze targeting strategies
 ### 👩‍💻 Author
 Bhavya Setia
 Data Analytics | Marketing Strategy | Machine Learning
+
 [LinkedIn](https://www.linkedin.com/in/bhavyasetia341)
